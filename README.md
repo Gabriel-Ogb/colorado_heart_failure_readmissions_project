@@ -1,12 +1,13 @@
 CMS 30-Day Heart Failure Readmission – Colorado (2020 – 2023)
 Colorado Hospital Performance Evaluation Using Python & Tableau
-
+**Author:** Gabriel Ogbonnaya, MD, CPHQ [Linkedin Profile](https://www.linkedin.com/in/gabriel-ogb/)
 Executive Summary
-This project analyzes 30-day heart failure readmission performance across Colorado hospitals (2020–2023) using publicly available CMS Hospital Compare data. The goal was to assess hospital performance relative to expected benchmarks, identify variation across facilities, and highlight opportunities for quality improvement.
+This project analyzes 30-day heart failure readmission performance across Colorado hospitals (2020–2023) using publicly available CMS Hospital Compare data. The goal was to assess hospital performance relative to expected benchmarks, identify variation across facilities, and highlight opportunities for quality improvement. It complements a previously completed HCAHPS analysis of patient experience across Denver hospitals by the author. [HCAHPS Dashboard](https://public.tableau.com/views/HCAHPS-Dashboard-Denver/Dashboard?)
 
 Python was used for data preparation and metric engineering, while Tableau was used to build an interactive dashboard exploring excess readmission ratios, discharge volume, and CMS reporting eligibility. Hospitals were categorized by performance relative to the State benchmark to support comparative analysis.
 
 Key findings reveal meaningful variation in readmission performance, limited interpretability for hospitals below CMS reporting thresholds, and no consistent relationship between discharge volume and performance. The final dashboard enables dynamic exploration through interactive filtering and drill-down.
+[View the interactive dashboard on Tableau Public](https://public.tableau.com/views/CO_HF_Dashboard/Dashboard?)
 
 Key Analytical Questions
 •	How do Colorado hospitals vary in 30-day heart failure readmission performance?
@@ -66,4 +67,5 @@ Future Enhancements
 
 Contact
 Interested in healthcare quality analytics or collaboration?
-Connect with me on LinkedIn: Link
+Connect with me on LinkedIn: [Link text](https://www.linkedin.com/in/gabriel-ogb/)
+
